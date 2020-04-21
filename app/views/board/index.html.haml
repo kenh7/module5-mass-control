@@ -1,0 +1,36 @@
+:coffeescript
+  aws_wss = "ws://162.243.120.86:443"
+  window.socket = undefined;
+  
+  window.make_circle = (remote_id)->
+    return new paper.Path.Circle
+      radius: 50
+      fillColor: "red"
+      position: paper.view.center
+      remote_id: remote_id
+  $ ->
+    window.gui = new dat.GUI()
+    window.app = new PaperJSApp
+      canvas: $('canvas')
+      name: "MassControl"
+    alertify.set('notifier','position', 'bottom-left')
+    
+    # YOUR CODE HERE
+
+    
+/ DO NOT MODIFY CODE UNDER THIS LINE      
+:scss
+  html, body, #sandbox{
+    width: 100%;
+    height: 100%;
+    overflow:hidden;
+  }
+  canvas{
+    border: 1px solid blue;
+    background: lighten(blue, 40%);
+  }
+
+
+#sandbox
+  %canvas{resize: "resize"}
+

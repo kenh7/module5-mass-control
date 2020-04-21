@@ -1,0 +1,87 @@
+:coffeescript
+  aws_wss = "ws://162.243.120.86:443"
+  window.socket = undefined;
+  
+  $ ->
+    alertify.notify "Hello World"
+    $("form").submit (event)->
+      event.preventDefault()
+    # YOUR CODE HERE
+    
+/ DO NOT MODIFY CODE BELOW THIS LINE
+.mobile
+  .hero
+    %form#remote.ui.form
+      %input{name: "action", type:"hidden", value:"move"}
+      .field
+        .ui.input.action.fluid
+          %input{name: "remote_id", type:"number", placeholder: "ID"}
+          %button.ui.button#connect Connect
+        .field
+          %input.ui.input{name: "color_id", type:"color"}
+          
+    .field#directional-pad
+      %button.ui.button.icon.circular.dummy
+        %i.icon
+      %button.ui.button.icon.circular{name:"up"}
+        %i.icon.arrow.alternate.circle.up
+      %button.ui.button.icon.circular.dummy
+        %i.icon
+      %button.ui.button.icon.circular{name:"left"}
+        %i.icon.arrow.alternate.circle.left
+      %button.ui.button.icon.circular.dummy
+        %i.icon
+      %button.ui.button.icon.circular{name:"right"}
+        %i.icon.arrow.alternate.circle.right
+      %button.ui.button.icon.circular.dummy
+        %i.icon
+      %button.ui.button.icon.circular{name:"down"}
+        %i.icon.arrow.alternate.circle.down
+      %button.ui.button.icon.circular.dummy
+        %i.icon
+      
+:scss
+  html{
+    font-size: 18pt; /* Root size */
+  }
+  
+  html, body, .mobile{
+    width: 100% !important;
+    height: 100% !important;
+    overflow: hidden;
+  }
+  input[type="color"]{
+    height: 60px;
+  }
+  #remote{
+    width: 100%;
+  }
+  .hero{
+    padding: 30px;
+    height: 100%; 
+    width: 100%;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  
+  #directional-pad{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    height: 100%;
+    button{
+      margin: 0;
+      flex-basis: 33.33%;
+      height: 90px;
+      font-size: 2em;
+      &.dummy{
+        visibility: hidden;
+      }
+    }
+  }
+    
