@@ -8,6 +8,71 @@
       event.preventDefault()
     # YOUR CODE HERE
     
+    # Connect button event
+      alertify.notify "Connecting to socket"
+      socketObj = start_socket()
+      window.socket = true
+      # alertify.success "Successfully connected to socket"
+    
+      # Directional pad event
+      $(".field#directional-pad button").click (event)->
+        # event.preventDefault()
+        
+        # Validate
+        if window.socket != true
+          alertify.error "Socket does not exist. Connect first"
+          return
+          
+        dir = event.currentTarget.name
+        colorVal = $("#remote.ui.form input.ui.input").val()
+        remoID = $("#remote.ui.form input[name='remote_id']").val()
+        
+        if remoID == ""
+          alertify.error "Please specify a remote ID"
+          return
+        
+        
+        # Create a request obj
+        requestObj = {}
+        requestObj.action = "move"
+        requestObj.direction = dir
+        requestObj.remote_id = remoID
+        requestObj.color_id = colorVal
+        
+        if socketObj.readyState == WebSocket.OPEN
+          
+          stringifyObj = JSON.stringify(requestObj)
+          
+          # Send the request, stringify
+          socketObj.send stringifyObj
+          console.log "Server << " + stringifyObj
+        
+  
+  
+  start_socket = ()->
+    console.log "ATTEMPTING CONNECECTION ON " + aws_wss
+    webSocketObj = new WebSocket( aws_wss )
+    console.log "OPENED WEBSOCKET"
+    
+    webSocketObj.onopen = (event) ->
+      $("#remote.ui.form button.ui.button#connect").addClass("disabled green")
+      $("#remote.ui.form button.ui.button#connect").removeClass("red")
+    
+    webSocketObj.onclose = (event) ->
+      $("#remote.ui.form button.ui.button#connect").addClass("red")
+      $("#remote.ui.form button.ui.button#connect").removeClass("disabled green")
+    
+    webSocketObj.onmessage = (event) ->
+      dataObj = JSON.parse(event.data)
+      console.log "Server >>", dataObj
+      
+    
+    webSocketObj.onerror = (event) ->
+      alertify.error event.data
+      
+    return webSocketObj
+    
+  
 / DO NOT MODIFY CODE BELOW THIS LINE
 .mobile
   .hero

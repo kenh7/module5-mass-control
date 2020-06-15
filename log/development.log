@@ -1,0 +1,2590 @@
+Started GET "/" for 108.64.49.201 at 2020-04-22 03:59:02 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApplicationController#home as HTML
+  Rendering application/home.html.haml within layouts/application
+  Rendered application/home.html.haml within layouts/application (24.2ms)
+Completed 200 OK in 15130ms (Views: 15119.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 108.64.49.201 at 2020-04-22 18:39:18 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApplicationController#home as HTML
+  Rendering application/home.html.haml within layouts/application
+  Rendered application/home.html.haml within layouts/application (23.8ms)
+Completed 200 OK in 566ms (Views: 555.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 108.64.49.201 at 2020-04-22 18:39:29 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApplicationController#home as HTML
+  Rendering application/home.html.haml within layouts/application
+  Rendered application/home.html.haml within layouts/application (5.3ms)
+Completed 200 OK in 86ms (Views: 84.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 18:42:55 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (255.9ms)
+Completed 200 OK in 322ms (Views: 321.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 18:54:18 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (274.8ms)
+Completed 200 OK in 593ms (Views: 584.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:06:32 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (147.4ms)
+Completed 200 OK in 204ms (Views: 203.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:06:42 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (138.9ms)
+Completed 200 OK in 193ms (Views: 192.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:14:51 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (141.6ms)
+Completed 200 OK in 200ms (Views: 199.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:15:14 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (150.7ms)
+Completed 200 OK in 218ms (Views: 217.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:16:15 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (142.8ms)
+Completed 200 OK in 207ms (Views: 207.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:16:33 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (152.8ms)
+Completed 200 OK in 210ms (Views: 209.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:16:55 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (139.9ms)
+Completed 200 OK in 196ms (Views: 195.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:17:19 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (139.0ms)
+Completed 200 OK in 204ms (Views: 203.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:19:41 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (138.0ms)
+Completed 200 OK in 201ms (Views: 200.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:19:57 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (152.5ms)
+Completed 200 OK in 213ms (Views: 212.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:20:12 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (143.9ms)
+Completed 200 OK in 215ms (Views: 214.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:21:39 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (154.3ms)
+Completed 200 OK in 210ms (Views: 209.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:22:14 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (140.6ms)
+Completed 200 OK in 206ms (Views: 205.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:22:21 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (144.0ms)
+Completed 200 OK in 210ms (Views: 209.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:22:59 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (139.9ms)
+Completed 200 OK in 205ms (Views: 205.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:23:50 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (149.5ms)
+Completed 200 OK in 203ms (Views: 202.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:24:14 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (143.1ms)
+Completed 200 OK in 208ms (Views: 207.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:24:21 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (139.3ms)
+Completed 200 OK in 205ms (Views: 204.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:24:56 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (153.3ms)
+Completed 200 OK in 246ms (Views: 245.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:25:00 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (140.3ms)
+Completed 200 OK in 210ms (Views: 209.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:25:37 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (141.5ms)
+Completed 200 OK in 210ms (Views: 209.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:25:43 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (141.3ms)
+Completed 200 OK in 208ms (Views: 207.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:29:01 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (143.7ms)
+Completed 200 OK in 201ms (Views: 200.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:29:35 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (130.7ms)
+Completed 500 Internal Server Error in 133ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: [stdin]:14:51: unexpected ->):
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:29:44 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (129.8ms)
+Completed 500 Internal Server Error in 131ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: [stdin]:14:50: unexpected ->):
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:29:45 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (130.9ms)
+Completed 500 Internal Server Error in 132ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: [stdin]:14:50: unexpected ->):
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:29:49 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (143.4ms)
+Completed 200 OK in 211ms (Views: 210.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:30:16 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (142.9ms)
+Completed 500 Internal Server Error in 145ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: [stdin]:14:51: unexpected ->):
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:30:20 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (144.3ms)
+Completed 200 OK in 202ms (Views: 201.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:30:31 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (143.0ms)
+Completed 200 OK in 208ms (Views: 207.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:31:48 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (139.2ms)
+Completed 200 OK in 205ms (Views: 204.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:34:45 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (138.4ms)
+Completed 200 OK in 194ms (Views: 193.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:36:16 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (142.5ms)
+Completed 200 OK in 207ms (Views: 207.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 19:37:07 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (143.6ms)
+Completed 200 OK in 199ms (Views: 198.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 20:04:02 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (142.2ms)
+Completed 200 OK in 209ms (Views: 208.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 20:07:56 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (142.8ms)
+Completed 200 OK in 209ms (Views: 208.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 20:10:25 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (154.2ms)
+Completed 200 OK in 211ms (Views: 210.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 20:11:34 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (143.6ms)
+Completed 200 OK in 215ms (Views: 214.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 20:12:20 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (140.4ms)
+Completed 200 OK in 207ms (Views: 206.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 20:12:50 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (141.8ms)
+Completed 200 OK in 206ms (Views: 205.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 20:13:06 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (139.5ms)
+Completed 200 OK in 203ms (Views: 202.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 20:13:40 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (139.9ms)
+Completed 200 OK in 272ms (Views: 271.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 20:14:20 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (143.8ms)
+Completed 200 OK in 211ms (Views: 210.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 20:14:33 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (149.2ms)
+Completed 200 OK in 220ms (Views: 219.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 20:14:59 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (141.8ms)
+Completed 200 OK in 195ms (Views: 194.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 20:15:41 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (143.1ms)
+Completed 200 OK in 208ms (Views: 208.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 20:17:36 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (146.4ms)
+Completed 200 OK in 215ms (Views: 214.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 20:19:51 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (143.3ms)
+Completed 200 OK in 198ms (Views: 197.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 20:22:42 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (143.8ms)
+Completed 200 OK in 211ms (Views: 210.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 20:39:29 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (144.0ms)
+Completed 200 OK in 209ms (Views: 208.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 20:42:52 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (147.6ms)
+Completed 200 OK in 213ms (Views: 213.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 20:48:02 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (147.0ms)
+Completed 200 OK in 216ms (Views: 215.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 20:51:55 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (146.2ms)
+Completed 200 OK in 211ms (Views: 210.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 20:52:20 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (149.8ms)
+Completed 200 OK in 216ms (Views: 215.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 20:52:40 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (146.6ms)
+Completed 200 OK in 213ms (Views: 212.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 20:55:01 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (148.4ms)
+Completed 200 OK in 214ms (Views: 214.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 20:55:27 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (159.0ms)
+Completed 200 OK in 215ms (Views: 214.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 20:55:38 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (146.6ms)
+Completed 200 OK in 213ms (Views: 213.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 20:57:39 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (150.5ms)
+Completed 200 OK in 217ms (Views: 216.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 20:58:34 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (151.7ms)
+Completed 200 OK in 254ms (Views: 253.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 20:59:41 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (143.6ms)
+Completed 200 OK in 212ms (Views: 211.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 20:59:54 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (146.5ms)
+Completed 200 OK in 214ms (Views: 213.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 21:00:36 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (160.4ms)
+Completed 200 OK in 216ms (Views: 215.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 21:00:48 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (146.6ms)
+Completed 200 OK in 202ms (Views: 201.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 21:04:13 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (147.3ms)
+Completed 200 OK in 211ms (Views: 210.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 21:04:30 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (147.9ms)
+Completed 200 OK in 215ms (Views: 215.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 21:05:18 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (149.9ms)
+Completed 200 OK in 210ms (Views: 210.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 21:05:35 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (147.8ms)
+Completed 200 OK in 219ms (Views: 219.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 21:06:18 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (143.4ms)
+Completed 200 OK in 199ms (Views: 198.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 21:08:01 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (145.9ms)
+Completed 200 OK in 212ms (Views: 211.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 21:08:22 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (150.3ms)
+Completed 200 OK in 207ms (Views: 206.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 21:11:59 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (130.4ms)
+Completed 500 Internal Server Error in 132ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: [stdin]:44:35: unexpected ,):
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 21:12:09 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (151.2ms)
+Completed 200 OK in 220ms (Views: 219.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 21:12:50 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (147.9ms)
+Completed 200 OK in 214ms (Views: 214.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 21:13:56 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (159.5ms)
+Completed 200 OK in 217ms (Views: 216.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 21:18:11 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (150.4ms)
+Completed 200 OK in 217ms (Views: 216.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 108.64.49.201 at 2020-04-22 21:18:16 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApplicationController#home as HTML
+  Rendering application/home.html.haml within layouts/application
+  Rendered application/home.html.haml within layouts/application (2.4ms)
+Completed 200 OK in 67ms (Views: 66.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 21:18:54 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (147.3ms)
+Completed 200 OK in 214ms (Views: 212.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 21:19:53 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (146.7ms)
+Completed 200 OK in 212ms (Views: 211.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 21:20:12 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (134.6ms)
+Completed 500 Internal Server Error in 136ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: [stdin]:41:35: unexpected ,):
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-22 21:20:18 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (147.8ms)
+Completed 200 OK in 213ms (Views: 212.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 108.64.49.201 at 2020-04-23 17:27:19 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApplicationController#home as HTML
+  Rendering application/home.html.haml within layouts/application
+  Rendered application/home.html.haml within layouts/application (18.5ms)
+Completed 200 OK in 710ms (Views: 700.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 108.64.49.201 at 2020-04-23 17:27:23 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApplicationController#home as HTML
+  Rendering application/home.html.haml within layouts/application
+  Rendered application/home.html.haml within layouts/application (2.5ms)
+Completed 200 OK in 72ms (Views: 71.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/hello" for 108.64.49.201 at 2020-04-23 17:27:28 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#hello as HTML
+  Rendering phone/hello.html.haml within layouts/mobile
+  Rendered phone/hello.html.haml within layouts/mobile (235.4ms)
+Completed 200 OK in 293ms (Views: 292.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 17:27:39 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (159.1ms)
+Completed 200 OK in 226ms (Views: 225.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 17:27:45 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (161.9ms)
+Completed 200 OK in 228ms (Views: 227.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 17:38:04 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (154.9ms)
+Completed 200 OK in 222ms (Views: 222.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 17:45:05 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (154.5ms)
+Completed 200 OK in 209ms (Views: 208.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 18:10:12 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (159.2ms)
+Completed 200 OK in 227ms (Views: 226.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 18:15:55 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (171.2ms)
+Completed 200 OK in 242ms (Views: 241.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 108.64.49.201 at 2020-04-23 18:16:17 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApplicationController#home as HTML
+  Rendering application/home.html.haml within layouts/application
+  Rendered application/home.html.haml within layouts/application (2.4ms)
+Completed 200 OK in 60ms (Views: 59.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 18:16:20 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (154.9ms)
+Completed 200 OK in 220ms (Views: 219.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 18:19:34 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (158.7ms)
+Completed 200 OK in 227ms (Views: 226.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 18:22:22 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (159.1ms)
+Completed 200 OK in 216ms (Views: 216.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 108.64.49.201 at 2020-04-23 21:32:29 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApplicationController#home as HTML
+  Rendering application/home.html.haml within layouts/application
+  Rendered application/home.html.haml within layouts/application (23.3ms)
+Completed 200 OK in 364ms (Views: 354.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 21:32:32 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (271.2ms)
+Completed 200 OK in 380ms (Views: 379.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 21:32:37 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (172.8ms)
+Completed 200 OK in 232ms (Views: 231.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 21:34:05 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (155.9ms)
+Completed 200 OK in 214ms (Views: 213.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 21:34:28 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (158.6ms)
+Completed 200 OK in 216ms (Views: 215.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 21:34:49 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (156.6ms)
+Completed 200 OK in 214ms (Views: 214.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 21:35:03 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (155.6ms)
+Completed 200 OK in 226ms (Views: 225.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 21:36:55 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (153.5ms)
+Completed 200 OK in 221ms (Views: 221.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 21:37:38 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (152.3ms)
+Completed 200 OK in 220ms (Views: 220.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 21:40:42 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (159.7ms)
+Completed 200 OK in 219ms (Views: 219.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 21:41:39 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (159.3ms)
+Completed 200 OK in 219ms (Views: 218.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 21:41:55 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (155.4ms)
+Completed 200 OK in 222ms (Views: 221.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 21:45:46 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (164.3ms)
+Completed 200 OK in 223ms (Views: 222.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 21:46:22 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (158.0ms)
+Completed 200 OK in 222ms (Views: 221.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 21:47:30 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (126.4ms)
+Completed 500 Internal Server Error in 129ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: [stdin]:66:54: unmatched )):
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 21:47:38 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (158.0ms)
+Completed 200 OK in 226ms (Views: 225.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 21:47:52 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (155.3ms)
+Completed 200 OK in 213ms (Views: 212.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 21:56:50 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (152.2ms)
+Completed 200 OK in 222ms (Views: 221.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 21:58:06 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (167.0ms)
+Completed 200 OK in 223ms (Views: 222.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 21:59:32 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (159.7ms)
+Completed 200 OK in 226ms (Views: 226.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 21:59:57 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (166.9ms)
+Completed 200 OK in 225ms (Views: 223.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 22:02:27 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (159.3ms)
+Completed 200 OK in 227ms (Views: 226.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 22:03:34 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (152.7ms)
+Completed 200 OK in 209ms (Views: 208.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 22:04:02 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (155.9ms)
+Completed 200 OK in 222ms (Views: 222.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 22:04:12 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (156.2ms)
+Completed 200 OK in 224ms (Views: 223.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 22:05:08 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (159.2ms)
+Completed 200 OK in 298ms (Views: 298.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 22:05:46 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (159.1ms)
+Completed 200 OK in 231ms (Views: 230.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 22:06:13 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (158.3ms)
+Completed 200 OK in 227ms (Views: 226.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 22:07:01 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (139.0ms)
+Completed 500 Internal Server Error in 140ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: [stdin]:70:35: unexpected ,):
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 22:07:21 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (138.9ms)
+Completed 500 Internal Server Error in 140ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: [stdin]:70:35: unexpected ,):
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 22:07:58 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (158.4ms)
+Completed 200 OK in 215ms (Views: 214.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 22:09:36 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (157.4ms)
+Completed 200 OK in 215ms (Views: 214.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 22:09:56 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (162.7ms)
+Completed 200 OK in 232ms (Views: 231.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 22:12:43 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (154.9ms)
+Completed 200 OK in 221ms (Views: 220.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 22:20:23 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (633.7ms)
+Completed 200 OK in 876ms (Views: 869.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 22:20:33 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (162.3ms)
+Completed 200 OK in 223ms (Views: 223.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 22:20:39 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (158.6ms)
+Completed 200 OK in 227ms (Views: 226.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 22:26:17 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (158.5ms)
+Completed 200 OK in 216ms (Views: 215.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 22:26:24 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (170.9ms)
+Completed 200 OK in 229ms (Views: 228.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 22:38:48 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (154.1ms)
+Completed 200 OK in 221ms (Views: 220.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-23 22:40:35 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (155.9ms)
+Completed 200 OK in 213ms (Views: 212.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 108.64.49.201 at 2020-04-24 15:46:23 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApplicationController#home as HTML
+  Rendering application/home.html.haml within layouts/application
+  Rendered application/home.html.haml within layouts/application (24.4ms)
+Completed 200 OK in 592ms (Views: 580.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-24 15:47:33 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (259.2ms)
+Completed 200 OK in 342ms (Views: 340.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/chat" for 108.64.49.201 at 2020-04-24 15:47:38 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#chat as HTML
+  Rendering board/chat.html.haml within layouts/application
+  Rendered board/chat.html.haml within layouts/application (1.5ms)
+Completed 200 OK in 60ms (Views: 55.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/hello" for 108.64.49.201 at 2020-04-24 15:47:41 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#hello as HTML
+  Rendering phone/hello.html.haml within layouts/mobile
+  Rendered phone/hello.html.haml within layouts/mobile (128.5ms)
+Completed 200 OK in 197ms (Views: 196.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 15:47:43 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (160.1ms)
+Completed 200 OK in 216ms (Views: 215.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote?action=move&remote_id=&color_id=%23000000" for 108.64.49.201 at 2020-04-24 15:51:14 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Parameters: {"remote_id"=>"", "color_id"=>"#000000"}
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (164.3ms)
+Completed 200 OK in 222ms (Views: 221.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote?action=move&remote_id=&color_id=%23000000" for 108.64.49.201 at 2020-04-24 15:53:15 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Parameters: {"remote_id"=>"", "color_id"=>"#000000"}
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (150.7ms)
+Completed 200 OK in 215ms (Views: 214.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 108.64.49.201 at 2020-04-24 15:54:33 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApplicationController#home as HTML
+  Rendering application/home.html.haml within layouts/application
+  Rendered application/home.html.haml within layouts/application (3.0ms)
+Completed 200 OK in 69ms (Views: 68.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 15:54:35 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (154.2ms)
+Completed 200 OK in 209ms (Views: 209.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 15:54:39 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (155.1ms)
+Completed 200 OK in 222ms (Views: 221.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 108.64.49.201 at 2020-04-24 16:18:38 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApplicationController#home as HTML
+  Rendering application/home.html.haml within layouts/application
+  Rendered application/home.html.haml within layouts/application (2.4ms)
+Completed 200 OK in 58ms (Views: 57.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 16:18:42 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (157.5ms)
+Completed 200 OK in 220ms (Views: 219.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 16:18:45 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (159.4ms)
+Completed 200 OK in 216ms (Views: 216.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 16:26:31 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (154.9ms)
+Completed 200 OK in 221ms (Views: 220.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 16:27:40 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (154.2ms)
+Completed 200 OK in 220ms (Views: 219.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 16:36:58 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (155.8ms)
+Completed 200 OK in 212ms (Views: 210.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 16:38:23 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (158.6ms)
+Completed 200 OK in 226ms (Views: 225.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 16:38:41 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (157.9ms)
+Completed 200 OK in 226ms (Views: 225.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/index" for 108.64.49.201 at 2020-04-24 17:46:46 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/phone/index"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.2) lib/rack/method_override.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.2) lib/puma/configuration.rb:227:in `call'
+puma (3.12.2) lib/puma/server.rb:674:in `handle_request'
+puma (3.12.2) lib/puma/server.rb:476:in `process_client'
+puma (3.12.2) lib/puma/server.rb:334:in `block in run'
+puma (3.12.2) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+  Rendering /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (0.9ms)
+  Rendered collection of /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [5 times] (3.1ms)
+  Rendered /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (5.4ms)
+  Rendering /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (7.9ms)
+  Rendered /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (44.4ms)
+Started GET "/phone/index" for 108.64.49.201 at 2020-04-24 17:46:52 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/phone/index"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.2) lib/rack/method_override.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.2) lib/puma/configuration.rb:227:in `call'
+puma (3.12.2) lib/puma/server.rb:674:in `handle_request'
+puma (3.12.2) lib/puma/server.rb:476:in `process_client'
+puma (3.12.2) lib/puma/server.rb:334:in `block in run'
+puma (3.12.2) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+  Rendering /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.5ms)
+  Rendered collection of /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [5 times] (2.8ms)
+  Rendered /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.8ms)
+  Rendering /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (26.5ms)
+Started GET "/board/index" for 108.64.49.201 at 2020-04-24 17:47:01 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (273.1ms)
+Completed 200 OK in 632ms (Views: 631.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-24 17:47:05 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (155.8ms)
+Completed 200 OK in 240ms (Views: 237.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-24 17:47:35 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (140.1ms)
+Completed 200 OK in 214ms (Views: 212.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 22:53:24 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (347.9ms)
+Completed 200 OK in 1240ms (Views: 1232.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 22:53:37 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (159.1ms)
+Completed 200 OK in 286ms (Views: 285.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 22:53:54 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (160.6ms)
+Completed 200 OK in 227ms (Views: 226.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 22:54:23 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (162.8ms)
+Completed 200 OK in 220ms (Views: 219.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 22:54:50 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (163.7ms)
+Completed 200 OK in 232ms (Views: 231.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 22:55:14 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (171.4ms)
+Completed 200 OK in 228ms (Views: 227.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 22:55:38 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (162.2ms)
+Completed 200 OK in 230ms (Views: 229.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 22:56:15 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (160.6ms)
+Completed 200 OK in 216ms (Views: 216.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 22:56:58 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (159.5ms)
+Completed 200 OK in 228ms (Views: 226.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 22:57:31 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (163.9ms)
+Completed 200 OK in 232ms (Views: 231.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 22:58:51 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (175.3ms)
+Completed 200 OK in 233ms (Views: 232.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 22:59:17 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (162.3ms)
+Completed 200 OK in 226ms (Views: 226.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 22:59:41 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (159.7ms)
+Completed 200 OK in 225ms (Views: 223.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:00:00 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (160.9ms)
+Completed 200 OK in 226ms (Views: 226.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:00:25 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (164.6ms)
+Completed 200 OK in 230ms (Views: 229.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:00:45 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (161.5ms)
+Completed 200 OK in 229ms (Views: 229.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:00:55 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (160.6ms)
+Completed 200 OK in 298ms (Views: 297.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:01:27 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (161.9ms)
+Completed 200 OK in 228ms (Views: 227.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:01:56 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (163.2ms)
+Completed 200 OK in 233ms (Views: 232.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:02:11 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (164.1ms)
+Completed 200 OK in 232ms (Views: 231.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:02:51 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (164.6ms)
+Completed 200 OK in 224ms (Views: 224.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:04:38 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (167.4ms)
+Completed 200 OK in 233ms (Views: 232.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:04:55 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (164.4ms)
+Completed 200 OK in 221ms (Views: 220.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:05:44 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (163.9ms)
+Completed 200 OK in 231ms (Views: 229.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:06:04 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (162.9ms)
+Completed 200 OK in 229ms (Views: 228.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:06:29 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (175.2ms)
+Completed 200 OK in 241ms (Views: 240.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:12:32 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (164.3ms)
+Completed 200 OK in 232ms (Views: 230.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:14:10 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (168.5ms)
+Completed 200 OK in 236ms (Views: 235.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:14:19 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (172.4ms)
+Completed 200 OK in 237ms (Views: 236.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:14:57 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (162.8ms)
+Completed 200 OK in 226ms (Views: 225.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:15:28 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (164.6ms)
+Completed 200 OK in 233ms (Views: 232.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:16:08 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (178.8ms)
+Completed 200 OK in 303ms (Views: 302.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:16:22 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (176.2ms)
+Completed 200 OK in 232ms (Views: 232.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:16:36 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (164.1ms)
+Completed 200 OK in 235ms (Views: 234.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:17:12 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (161.3ms)
+Completed 200 OK in 231ms (Views: 230.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:17:23 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (166.9ms)
+Completed 200 OK in 233ms (Views: 232.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:17:31 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (163.8ms)
+Completed 200 OK in 231ms (Views: 229.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:17:38 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (163.3ms)
+Completed 200 OK in 230ms (Views: 229.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:21:15 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (160.3ms)
+Completed 200 OK in 216ms (Views: 215.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:21:54 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (164.0ms)
+Completed 200 OK in 231ms (Views: 230.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:22:37 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (164.1ms)
+Completed 200 OK in 230ms (Views: 229.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:22:58 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (160.7ms)
+Completed 200 OK in 227ms (Views: 226.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:24:31 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (164.0ms)
+Completed 200 OK in 233ms (Views: 232.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:25:59 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (161.3ms)
+Completed 200 OK in 227ms (Views: 226.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-24 23:26:28 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (163.6ms)
+Completed 200 OK in 228ms (Views: 227.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 209.17.96.226 at 2020-04-25 00:29:14 +0000
+Cannot render console from 209.17.96.226! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApplicationController#home as */*
+  Rendering application/home.html.haml within layouts/application
+  Rendered application/home.html.haml within layouts/application (2.4ms)
+Completed 200 OK in 63ms (Views: 59.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 00:31:32 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (174.3ms)
+Completed 200 OK in 231ms (Views: 230.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 196.52.43.55 at 2020-04-25 00:40:58 +0000
+Cannot render console from 196.52.43.55! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApplicationController#home as */*
+  Rendering application/home.html.haml within layouts/application
+  Rendered application/home.html.haml within layouts/application (2.3ms)
+Completed 200 OK in 61ms (Views: 58.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 00:42:43 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (173.0ms)
+Completed 200 OK in 230ms (Views: 229.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 00:50:46 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (163.2ms)
+Completed 200 OK in 233ms (Views: 232.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 00:51:34 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (174.6ms)
+Completed 200 OK in 231ms (Views: 230.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 00:52:11 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (158.8ms)
+Completed 200 OK in 225ms (Views: 224.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 01:00:14 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (176.7ms)
+Completed 200 OK in 234ms (Views: 233.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 01:03:04 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (162.2ms)
+Completed 200 OK in 230ms (Views: 229.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 01:05:58 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (176.5ms)
+Completed 200 OK in 246ms (Views: 245.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 01:06:15 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (171.7ms)
+Completed 200 OK in 230ms (Views: 229.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 01:08:36 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (160.4ms)
+Completed 200 OK in 229ms (Views: 228.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 01:08:50 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (164.0ms)
+Completed 200 OK in 231ms (Views: 230.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 01:11:00 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (162.7ms)
+Completed 200 OK in 231ms (Views: 230.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 01:11:16 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (162.2ms)
+Completed 200 OK in 228ms (Views: 227.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 01:11:29 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (161.3ms)
+Completed 200 OK in 227ms (Views: 226.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 01:16:09 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (163.5ms)
+Completed 200 OK in 233ms (Views: 233.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 01:21:09 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (162.4ms)
+Completed 200 OK in 233ms (Views: 232.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 01:22:02 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (160.0ms)
+Completed 200 OK in 217ms (Views: 216.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 01:26:04 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (160.2ms)
+Completed 200 OK in 227ms (Views: 226.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 01:26:21 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (320.9ms)
+Completed 200 OK in 646ms (Views: 637.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 01:40:26 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (163.9ms)
+Completed 200 OK in 221ms (Views: 220.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 01:41:11 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (163.1ms)
+Completed 200 OK in 221ms (Views: 220.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 01:41:51 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (164.5ms)
+Completed 200 OK in 234ms (Views: 233.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 01:42:05 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (164.6ms)
+Completed 200 OK in 234ms (Views: 234.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 01:45:41 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (136.5ms)
+Completed 500 Internal Server Error in 138ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: [stdin]:66:5: reserved word 'var'):
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 01:45:46 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (125.8ms)
+Completed 500 Internal Server Error in 127ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: [stdin]:66:5: reserved word 'var'):
+Started GET "/" for 108.64.49.201 at 2020-04-25 18:34:09 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApplicationController#home as HTML
+  Rendering application/home.html.haml within layouts/application
+  Rendered application/home.html.haml within layouts/application (20.0ms)
+Completed 200 OK in 608ms (Views: 599.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 108.64.49.201 at 2020-04-25 18:34:20 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApplicationController#home as HTML
+  Rendering application/home.html.haml within layouts/application
+  Rendered application/home.html.haml within layouts/application (3.0ms)
+Completed 200 OK in 60ms (Views: 58.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 18:34:31 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (276.3ms)
+Completed 200 OK in 333ms (Views: 332.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/hello" for 108.64.49.201 at 2020-04-25 18:34:34 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#hello as HTML
+  Rendering phone/hello.html.haml within layouts/mobile
+  Rendered phone/hello.html.haml within layouts/mobile (122.7ms)
+Completed 200 OK in 189ms (Views: 188.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 18:34:38 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (147.2ms)
+Completed 200 OK in 204ms (Views: 202.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 18:34:40 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (144.7ms)
+Completed 200 OK in 210ms (Views: 209.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 108.64.49.201 at 2020-04-25 18:35:09 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApplicationController#home as HTML
+  Rendering application/home.html.haml within layouts/application
+  Rendered application/home.html.haml within layouts/application (3.0ms)
+Completed 200 OK in 59ms (Views: 58.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 18:35:12 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (159.6ms)
+Completed 200 OK in 226ms (Views: 225.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 18:42:32 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (152.2ms)
+Completed 200 OK in 217ms (Views: 216.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 18:42:33 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (169.5ms)
+Completed 200 OK in 248ms (Views: 247.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 18:49:52 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (145.7ms)
+Completed 200 OK in 202ms (Views: 200.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 18:54:23 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (147.3ms)
+Completed 200 OK in 216ms (Views: 214.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 18:54:44 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (167.2ms)
+Completed 200 OK in 227ms (Views: 226.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 18:54:53 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (156.2ms)
+Completed 200 OK in 225ms (Views: 224.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 18:55:31 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (163.8ms)
+Completed 200 OK in 219ms (Views: 218.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 18:55:52 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (149.1ms)
+Completed 200 OK in 216ms (Views: 215.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 18:56:40 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (148.3ms)
+Completed 200 OK in 204ms (Views: 203.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 18:56:41 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (171.0ms)
+Completed 200 OK in 237ms (Views: 237.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 18:57:45 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (151.9ms)
+Completed 200 OK in 219ms (Views: 218.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 18:59:25 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (153.7ms)
+Completed 200 OK in 220ms (Views: 218.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 19:08:42 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (169.2ms)
+Completed 200 OK in 281ms (Views: 279.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 19:18:53 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (150.3ms)
+Completed 200 OK in 217ms (Views: 215.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 19:22:10 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (153.2ms)
+Completed 200 OK in 220ms (Views: 218.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 19:22:46 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (156.2ms)
+Completed 200 OK in 225ms (Views: 224.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 19:23:51 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (152.7ms)
+Completed 200 OK in 210ms (Views: 209.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 19:24:33 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (154.1ms)
+Completed 200 OK in 211ms (Views: 209.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 19:24:48 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (153.9ms)
+Completed 200 OK in 224ms (Views: 222.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 19:24:59 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (151.3ms)
+Completed 200 OK in 220ms (Views: 219.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 19:25:27 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (148.2ms)
+Completed 200 OK in 204ms (Views: 203.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 19:25:49 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (154.2ms)
+Completed 200 OK in 221ms (Views: 220.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 19:43:01 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (168.2ms)
+Completed 200 OK in 224ms (Views: 223.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 19:43:26 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (154.6ms)
+Completed 200 OK in 220ms (Views: 219.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 19:44:00 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (168.9ms)
+Completed 200 OK in 227ms (Views: 226.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 19:47:21 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (149.8ms)
+Completed 200 OK in 215ms (Views: 213.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 19:48:02 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (156.6ms)
+Completed 200 OK in 212ms (Views: 211.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 19:49:14 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (152.8ms)
+Completed 200 OK in 220ms (Views: 219.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 19:49:47 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (155.8ms)
+Completed 200 OK in 223ms (Views: 222.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 19:49:50 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (159.3ms)
+Completed 200 OK in 223ms (Views: 222.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 19:53:49 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (166.8ms)
+Completed 200 OK in 223ms (Views: 222.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 19:53:51 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (162.3ms)
+Completed 200 OK in 227ms (Views: 226.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 19:53:53 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (158.1ms)
+Completed 200 OK in 215ms (Views: 214.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 19:53:57 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (183.4ms)
+Completed 200 OK in 239ms (Views: 238.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 19:55:03 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (158.6ms)
+Completed 200 OK in 214ms (Views: 213.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 19:55:04 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (167.3ms)
+Completed 200 OK in 234ms (Views: 233.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 19:55:18 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (153.0ms)
+Completed 200 OK in 222ms (Views: 221.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 19:55:31 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (156.7ms)
+Completed 200 OK in 213ms (Views: 212.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 20:15:36 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (156.2ms)
+Completed 200 OK in 213ms (Views: 211.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 20:16:16 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (156.5ms)
+Completed 200 OK in 224ms (Views: 223.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 20:16:53 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (158.3ms)
+Completed 200 OK in 223ms (Views: 221.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 20:24:11 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (153.4ms)
+Completed 200 OK in 219ms (Views: 218.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 20:24:15 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (160.8ms)
+Completed 200 OK in 216ms (Views: 216.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 20:24:17 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (167.1ms)
+Completed 200 OK in 223ms (Views: 222.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 20:24:34 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (154.5ms)
+Completed 200 OK in 220ms (Views: 219.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 20:28:03 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (155.1ms)
+Completed 200 OK in 224ms (Views: 223.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 20:28:03 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (178.7ms)
+Completed 200 OK in 252ms (Views: 251.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 20:28:06 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (160.1ms)
+Completed 200 OK in 226ms (Views: 225.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 20:28:11 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (154.9ms)
+Completed 200 OK in 219ms (Views: 218.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 20:32:22 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (158.1ms)
+Completed 200 OK in 223ms (Views: 222.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 20:33:18 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (155.4ms)
+Completed 200 OK in 221ms (Views: 220.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 20:33:19 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (172.0ms)
+Completed 200 OK in 243ms (Views: 242.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 20:34:22 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (154.6ms)
+Completed 200 OK in 212ms (Views: 210.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 21:09:13 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (153.9ms)
+Completed 200 OK in 211ms (Views: 210.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 21:09:14 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (192.8ms)
+Completed 200 OK in 255ms (Views: 254.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 21:09:15 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (180.6ms)
+Completed 200 OK in 269ms (Views: 268.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 209.17.96.42 at 2020-04-25 21:10:56 +0000
+Cannot render console from 209.17.96.42! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ApplicationController#home as */*
+  Rendering application/home.html.haml within layouts/application
+  Rendered application/home.html.haml within layouts/application (2.3ms)
+Completed 200 OK in 71ms (Views: 68.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 21:11:49 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (152.7ms)
+Completed 200 OK in 220ms (Views: 219.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 21:11:50 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (154.9ms)
+Completed 200 OK in 211ms (Views: 209.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 21:11:52 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (158.1ms)
+Completed 200 OK in 223ms (Views: 222.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 21:17:37 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (164.0ms)
+Completed 200 OK in 220ms (Views: 219.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 21:17:38 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (174.2ms)
+Completed 200 OK in 251ms (Views: 250.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 21:17:47 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (158.9ms)
+Completed 200 OK in 216ms (Views: 215.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 21:18:13 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (158.6ms)
+Completed 200 OK in 230ms (Views: 229.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/board/index" for 108.64.49.201 at 2020-04-25 21:18:16 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BoardController#index as HTML
+  Rendering board/index.html.haml within layouts/application
+  Rendered board/index.html.haml within layouts/application (154.7ms)
+Completed 200 OK in 219ms (Views: 218.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 21:18:18 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (172.6ms)
+Completed 200 OK in 229ms (Views: 227.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 21:18:46 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (158.8ms)
+Completed 200 OK in 225ms (Views: 224.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/remote" for 108.64.49.201 at 2020-04-25 21:18:52 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#remote as HTML
+  Rendering phone/remote.html.haml within layouts/mobile
+  Rendered phone/remote.html.haml within layouts/mobile (151.7ms)
+Completed 200 OK in 219ms (Views: 218.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/hello" for 108.64.49.201 at 2020-04-25 22:15:08 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#hello as HTML
+  Rendering phone/hello.html.haml within layouts/mobile
+  Rendered phone/hello.html.haml within layouts/mobile (264.1ms)
+Completed 200 OK in 808ms (Views: 798.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/phone/hello" for 108.64.49.201 at 2020-04-25 22:16:58 +0000
+Cannot render console from 108.64.49.201! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PhoneController#hello as HTML
+  Rendering phone/hello.html.haml within layouts/mobile
+  Rendered phone/hello.html.haml within layouts/mobile (125.2ms)
+Completed 200 OK in 229ms (Views: 228.6ms | ActiveRecord: 0.0ms)
+
+

@@ -15,8 +15,70 @@
       name: "MassControl"
     alertify.set('notifier','position', 'bottom-left')
     
+    start_socket()
+    
     # YOUR CODE HERE
-
+  # start_socket test for part 7
+  start_socket = ()->
+    console.log "ATTEMPTING CONNECECTION ON " + aws_wss
+    webSocketObj = new WebSocket( aws_wss )
+    console.log "OPENED WEBSOCKET"
+    
+    $(document).on "move", (event, eventData)->
+      parsedObj = JSON.parse(eventData.data)
+      
+      remoteIdObj = parsedObj.remote_id
+      directionObj = parsedObj.direction
+      colorId = parsedObj.color_id
+      
+      # Get all circle items with the following conditions
+      circleItem = paper.project.getItems
+        remote_id: remoteIdObj
+      
+      # Function to move obj
+      moveObj = (obj)->
+        if directionObj == "up"
+          obj.position.y -= 10
+        else if directionObj == "left"
+          obj.position.x -= 10
+        else if directionObj == "right"
+          obj.position.x += 10
+        else if directionObj == "down"
+          obj.position.y += 10
+      
+      # if there is nothing, we make and move circle
+      if circleItem.length == 0
+        # make_circle with colorid
+        circleObj = window.make_circle(remoteIdObj)
+        moveObj(circleObj)
+        circleObj.fillColor = colorId
+        
+      else
+        # for ea circle, move them
+        _.each circleItem, (el)->
+          moveObj(el)
+          el.fillColor = colorId
+      
+    webSocketObj.onopen = (event) ->
+      $("#remote.ui.form button.ui.button#connect").addClass("disabled green")
+      $("#remote.ui.form button.ui.button#connect").removeClass("red")
+    
+    webSocketObj.onclose = (event) ->
+      $("#remote.ui.form button.ui.button#connect").addClass("red")
+      $("#remote.ui.form button.ui.button#connect").removeClass("disabled green")
+    
+    webSocketObj.onmessage = (event) ->
+      dataObj = event.data.action
+      actionObj = JSON.parse(event.data).action
+      
+      if JSON.parse(event.data).action
+        parsedObj = JSON.parse(event.data)
+        $(document).trigger("move", [event])
+        
+    webSocketObj.onerror = (event) ->
+      alertify.error event.data
+      
+    return webSocketObj
     
 / DO NOT MODIFY CODE UNDER THIS LINE      
 :scss
