@@ -10,9 +10,9 @@ Practice websockets, event triggers and handling with jQuery and CoffeeScript.
 ## Installation
 1) Create a new EC2 Cloud 9 instance
 2) In Cloud 9 terminal:
-	a) git clone https://github.com/kenh7/module5-mass-control.git
-	b) cd module5-mass-control
-	c) bundle install
+	- a) git clone https://github.com/kenh7/module5-mass-control.git
+	- b) cd module5-mass-control
+	- c) bundle install
 3) Run project
 
 ## Credits
